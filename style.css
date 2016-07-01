@@ -1,0 +1,28 @@
+body{
+  background-color: #0E233E;
+}
+
+.nav a{
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li{
+  display: inline;
+}
+
+.nav{
+  padding-top: 20px;
+  padding-bottom: 14px;
+  background-color: #2E6D5D;
+}
+
+
+img.main-logo{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
