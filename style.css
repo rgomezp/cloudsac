@@ -1,5 +1,5 @@
 body{
-  background-color: #0E233E;
+  background-color: #eee;
 }
 
 .nav a{
@@ -20,9 +20,7 @@ body{
   background-color: #2E6D5D;
 }
 
-
-img.main-logo{
-	display: block;
-	margin-left:auto;
-	margin-right:auto;
+.jumbotron{
+  height: 400px;
+  background-color: #0E233E;
 }
