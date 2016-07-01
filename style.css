@@ -17,10 +17,12 @@ body{
 .nav{
   padding-top: 20px;
   padding-bottom: 14px;
-  background-color: #2E6D5D;
+  background-color: #5C82B2;
 }
 
 .jumbotron{
   height: 400px;
-  background-color: #0E233E;
+  background-image:url('img/clouds.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
