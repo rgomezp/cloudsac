@@ -4,8 +4,9 @@ body{
 
 
 .nav a{
-  color: white;
-  font-size: 14px;
+  font-family: Trebuchet MS;
+  color: #0E233E;
+  font-size: 16px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -18,11 +19,11 @@ body{
 .nav{
   padding-top: 20px;
   padding-bottom: 14px;
-  background-color: #5C82B2;
+  background-color: white;
 }
 
 .jumbotron{
-  height: 400px;
+  background-size: 300px;
   background-image:url('img/clouds.gif');
   background-repeat: no-repeat;
   background-size: cover;
@@ -31,6 +32,10 @@ body{
 p{
   font-family: 'Roboto';
   font-size: 22px;
+}
+
+h2{
+  font-family: 'Roboto';
 }
 
 
@@ -46,10 +51,15 @@ p{
 
 .graphic-2{
   padding: 40px;
+  background-color: white;
 
 }
 
 .graphic-3{
   padding: 40px;
-  background-color: white;
+}
+
+.couches{
+  padding:40px;
+
 }
