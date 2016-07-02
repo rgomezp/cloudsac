@@ -2,6 +2,7 @@ body{
   background-color: #eee;
 }
 
+
 .nav a{
   color: white;
   font-size: 14px;
@@ -28,11 +29,27 @@ body{
 }
 
 p{
-  font-family: roboto;
-  font-size: 20px;
+  font-family: 'Roboto';
+  font-size: 22px;
 }
 
 
-.more-info .container .row{
-  padding-top: 50px;
+.more-info .container{
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.graphic-1{
+  padding: 40px;
+  background-color: white;
+}
+
+.graphic-2{
+  padding: 40px;
+
+}
+
+.graphic-3{
+  padding: 40px;
+  background-color: white;
 }
