@@ -77,10 +77,6 @@ h2{
   background-color: #5879AD;
 }
 
-.footer ul{
-  text-align: center;
-
-}
 
 .footer a{
   font-family: Arial;
@@ -91,6 +87,7 @@ h2{
 }
 
 .footer li{
+  text-align: center;
   color: white;
   list-style-type: none;
   margin: 10px 0;
