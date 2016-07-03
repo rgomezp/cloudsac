@@ -16,10 +16,11 @@ body{
   display: inline;
 }
 
-.nav{
+.navbar{
   padding-top: 20px;
   padding-bottom: 14px;
   background-color: white;
+  margin: 0;
 }
 
 .jumbotron{
